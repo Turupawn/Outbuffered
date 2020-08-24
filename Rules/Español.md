@@ -17,7 +17,7 @@ Al inicio de cada turno, cada jugador posiciona sus <span class="color-secundary
 * <span class="color-primary">Nada</span>: Tu <span class="color-secundary">robot</span> no realiza ninguna acción
 * <span class="color-primary">Disparo</span>: Tu <span class="color-secundary">robot</span> realiza un <span class="color-primary">disparo</span> afectando las casillas en un patrón estilo cruz, igual que el rango de una torre en ajedrez. Esto incluye todas las casillas a su <span class="color-primary">izquierda</span>, <span class="color-primary">derecha</span>, <span class="color-primary">arriba</span> y <span class="color-primary">abajo</span>. Si su oponente recibe un <span class="color-primary">disparo</span> regresará a su casilla inicial
 
-<span class="color-alert">Atención!</span> No te puedes mover hacia una pared, una casilla ocupada por tu oponente estacionado, tu <span class="color-secundary">bandera</span> y hacia una casilla a la que tu oponente también se está moviendo. En caso que esto suceda, tu <span class="color-secundary">robot</span> rebotará hacia su casilla de origen y el juego continuará normalmente.
+<span class="color-alert">Atención!</span> No te puedes mover hacia una pared, una casilla ocupada por tu oponente estacionado, tu <span class="color-secundary">bandera</span> y hacia una casilla a la que tu oponente también se está moviendo. En caso que esto suceda, tu <span class="color-secundary">robot</span> rebotará hacia su <span class="color-secundary">casilla de inicio</span> y el juego continuará normalmente.
 
 Cuando ambos estén listos, revelarán sus <span class="color-secundary">comandos</span> al mismo tiempo. Y serán ejecutados uno por uno en el orden de su respectivo <span class="color-secundary">buffer</span>.
 
@@ -48,7 +48,7 @@ Primero captura la <span class="color-secundary">bandera</span> de tu oponente p
 ## Glosario
 
 * <span class="color-secundary">Robot</span>: Personaje jugable. Outbuffered es un juego de 2 jugadores y cada uno controla su <span class="color-secundary">robot</span>. <img src="../PNG/renders/robo.png" height="50"/>
-* <span class="color-secundary">Bandera</span>: Cada jugador tiene su <span class="color-secundary">bandera</span>, el objetivo del juego es traer la <span class="color-secundary">bandera</span> de tu oponente a tu <span class="color-secundary">casilla base</span>. <img src="../PNG/renders/flag.png" height="50"/>
+* <span class="color-secundary">Bandera</span>: Cada jugador tiene su <span class="color-secundary">bandera</span>, tu objetivo es traer la <span class="color-secundary">bandera</span> de tu oponente a tu <span class="color-secundary">casilla base</span>. <img src="../PNG/renders/flag.png" height="50"/>
 * <span class="color-secundary">Casilla base</span>: Casilla donde tu <span class="color-secundary">bandera</span> está posicionada al inicio del juego y donde debes traer la <span class="color-secundary">bandera</span> de tu oponente para ganar.
 * <span class="color-secundary">Casilla de inicio</span>: Casilla especial donde los <span class="color-secundary">robots</span> están ubicados al inicio.
 * <span class="color-secundary">Comando</span>: Acción que tu <span class="color-secundary">robot</span> ejecutará. Para ejecutar un <span class="color-secundary">comando</span>, posiciónalo boca arriba en tu <span class="color-secundary">buffer</span>. <img src="../PNG/renders/command2.png" height="50"/>

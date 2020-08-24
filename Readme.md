@@ -1,23 +1,44 @@
-# Paleta de colores
+# Outbuffered
 
-## Principales
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Turupawn/Outbuffered/blob/master/LICENSE)
+[![Thingiverse](https://img.shields.io/badge/download-Thingiverse-green.svg)]()
+[![Reglas](https://img.shields.io/badge/reglas-Español-green.svg)](https://github.com/Turupawn/Outbuffered/blob/master/Rules/Español.md)
+[![Rules](https://img.shields.io/badge/rules-English-green.svg)](https://github.com/Turupawn/Outbuffered/blob/master/Rules/English.md)
 
-* <span style="color:#c1d82fff">c1d82fff</span>
-* <span style="color:#aa54d2ff">aa54d2ff</span>
+Have fun creating strategies and predicting your oponent.
 
-## Secundarios
+| Feature | Supported |
+|----------|------------ |
+| DIY 3D printable | ✔ |
+| All ages | ✔ |
+| Easy to learn hard to master | ✔ |
+| Introduces programming logic | ✔ |
+| Very fun! | ✔ |
 
-* <span style="color:#000000ff">000000ff</span>
-* <span style="color:#ffffffff">ffffffff</span>
-* <span style="color:#9da6a0ff">9da6a0ff</span>
-* <span style="color:#e70029ff">e70029ff</span>
-* <span style="color:#1f3368ff">1f3368ff</span>
-* <span style="color:#00a954ff">00a954ff</span>
-* <span style="color:#ffd75aff">ffd75aff</span>
-* <span style="color:#ff683fff">ff683fff</span>
-* <span style="color:#00c3c8ff">00c3c8ff</span>
-* <span style="color:#e2d4c9ff">e2d4c9ff</span>
+## Rules
 
-### Box icons
+* [English](https://github.com/Turupawn/Outbuffered/blob/master/Rules/English.md)
+* [Español](https://github.com/Turupawn/Outbuffered/blob/master/Rules/Español.md)
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+## DIY
+
+* [.STL 3D models](https://github.com/Turupawn/Outbuffered/blob/master/STL)
+* [.blend Blender editables](https://github.com/Turupawn/Outbuffered/blob/master/Blend)
+* [.SVG Vectors](https://github.com/Turupawn/Outbuffered/blob/master/SVG)
+
+### Contributions
+
+1. Fork it
+2. Add new stuff
+```bash
+git checkout -b my-new-feature
+git commit -am 'Add some feature'
+git push origin my-new-feature
+```
+3. Create a pull request
+
+![Alt text](IMG/01.JPG?raw=true "Title")
+![Alt text](IMG/02.JPG?raw=true "Title")
+![Alt text](IMG/03.JPG?raw=true "Title")
+![Alt text](IMG/04.JPG?raw=true "Title")
+![Alt text](IMG/05.JPG?raw=true "Title")
