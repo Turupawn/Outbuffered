@@ -26,7 +26,7 @@ Have fun creating strategies and predicting your oponent.
 * [.blend Blender editables](https://github.com/Turupawn/Outbuffered/blob/master/Blend)
 * [.SVG Vectors](https://github.com/Turupawn/Outbuffered/blob/master/SVG)
 
-### Contributions
+## Contributions
 
 1. Fork it
 2. Add new stuff
@@ -36,6 +36,8 @@ git commit -am 'Add some feature'
 git push origin my-new-feature
 ```
 3. Create a pull request
+
+## Images
 
 ![Alt text](IMG/01.JPG?raw=true "Title")
 ![Alt text](IMG/02.JPG?raw=true "Title")
