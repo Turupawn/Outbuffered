@@ -1,7 +1,7 @@
 # Outbuffered
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Turupawn/Outbuffered/blob/master/LICENSE)
-[![Thingiverse](https://img.shields.io/badge/download-Thingiverse-green.svg)]()
+[![Thingiverse](https://img.shields.io/badge/download-Thingiverse-green.svg)](https://www.thingiverse.com/thing:4578382)
 [![Reglas](https://img.shields.io/badge/reglas-Español-green.svg)](https://github.com/Turupawn/Outbuffered/blob/master/Rules/Español.md)
 [![Rules](https://img.shields.io/badge/rules-English-green.svg)](https://github.com/Turupawn/Outbuffered/blob/master/Rules/English.md)
 
